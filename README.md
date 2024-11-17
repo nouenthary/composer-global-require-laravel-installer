@@ -7,5 +7,3 @@ I'm a Full Stack Developer.
 - 💬 Ask me about [Laravel](https://laravel.com) , [Vue](https://vuejs.org) , [Nodejs or Nestjs](https://nestjs.com).
 - 😄 Pronouns: he/him/his
 - ⚡ favorite: Football, Movie, Technology
-
-### Github Stats
